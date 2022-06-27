@@ -1,0 +1,12 @@
+
+header  {
+   border: 5px rgb(255, 196, 0) solid;
+        }
+
+main  {
+    border: 5px rgb(255, 0, 0) solid;
+        }
+
+footer  {
+    border: 5px rgb(0, 0, 255) solid;
+        }
